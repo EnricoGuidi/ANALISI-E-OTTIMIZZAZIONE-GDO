@@ -1,6 +1,6 @@
 
 # ANALISI DATI DI VENDITA DEGLI ARTICOLI  
-_Analisi esplorativa dei driver di vendita con Python_
+Analisi esplorativa dei driver di vendita con Python
 
 ## 📌 Descrizione del Progetto
 
@@ -63,8 +63,8 @@ Di seguito alcune delle colonne chiave:
 ### 1. Clona il Repository
 
 ```bash
-git clone https://github.com/tuo-utente/retail-sales-analysis.git
-cd retail-sales-analysis
+git clone https://github.com/EnricoGuidi/ANALISI-E-OTTIMIZZAZIONE-GDO.git
+cd Analisi_vendita_dettaglio_GDO
 ```
 
 ### 2. Installa le Dipendenze
@@ -76,7 +76,7 @@ pip install pandas numpy matplotlib seaborn
 ### 3. Avvia Jupyter Notebook
 
 ```bash
-jupyter notebook new.ipynb
+jupyter notebook Analisi_vendita_dettaglio_GDO.ipynb
 ```
 
 ---
@@ -119,12 +119,12 @@ RSI S.r.l. – Divisione Data Science
 
 ## 📬 Contatti
 
-📧 enrico.guidi@rsi.it  
-🌐 www.rsi.it/data-science  
+📧 enrico.guidi.ing@gmail.com
+🌐 
 
 ---
 
 ## ⚠️ Note Finali
 
-Il progetto è pensato come base per moduli di data analytics predittiva.  
+Il progetto è pensato come base per moduli di data analytics.  
 Può essere facilmente esteso per modelli di regressione, clustering o sistemi di raccomandazione.
